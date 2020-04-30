@@ -1,0 +1,6 @@
+[submodule "Parts-Hub-Stlution"]
+	path = Parts-Hub-Stlution
+	url = git@github.com:invincible0809/Parts-Hub-Stlution.git
+[submodule "3dmaker"]
+	path = 3dmaker
+	url = git@github.com:prajwalcool/3dmaker.git
